@@ -1,0 +1,15 @@
+html, body {
+  font-family: 'Quicksand', sans-serif;
+  color: white
+}
+body{
+  background-image: image("image1.jpg");
+}
+
+h1{
+  color: red
+}
+
+img{
+  width: 250
+}
